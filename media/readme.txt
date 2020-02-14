@@ -1,3 +1,5 @@
+Licensing for winter skybox:
+
 Author
 ======
 
